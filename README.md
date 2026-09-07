@@ -55,19 +55,6 @@ A histogram is also calculated in some variants with `min=0, max=255` after `rgb
 
 The notebooks use private local or Google Drive paths in several cells. Those paths should be removed or parameterized before publication.
 
-## Recommended canonical notebook
-
-The uploaded files contain several overlapping versions. Keep only one public notebook to avoid presenting revisions as separate experiments.
-
-Recommended rename:
-
-```text
-segmentasi_roi.ipynb
--> genital_herpes_image_segmentation.ipynb
-```
-
-The other `segmentasi_roi (...)` and `Untitled...` notebooks should be treated as development copies unless they contain a result you intentionally want to preserve.
-
 ## Running
 
 ```bash
